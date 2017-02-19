@@ -15,3 +15,7 @@ rules are quite hard to read and it took me several hours to figure out.
 You can see it running
 [here](http://morphett.info/turing/turing.html?5c8597ba8908a4e42c22c320ad2e7c9e).
 There are some other examples listed in the comments to try.
+
+Here it is as a graph:
+
+![Turing Machine graph](graph.png)
